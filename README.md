@@ -1,15 +1,11 @@
-![Header](./github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Akash Tharindu</h1>
 <h3 align="center">
 Software Engineer | Cloud & DevOps Enthusiast | AI-Driven Systems Builder
 </h3>
 
-<img align="right" alt="coding" width="380" src="./github.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge" />
-</p>
 
 ---
 
@@ -31,9 +27,9 @@ Software Engineer | Cloud & DevOps Enthusiast | AI-Driven Systems Builder
 
 ### 📫 Contact Me
 
-- 📧 Email: **your@email.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-- 🌐 Portfolio: **https://your-website.com**
+- 📧 Email: **akashtharindu7788@gmail**
+- 💼 LinkedIn: **https://www.linkedin.com/in/akash-tharindu/**
+
 
 ---
 
