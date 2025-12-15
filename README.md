@@ -61,30 +61,9 @@ Software Engineer | Cloud & DevOps Enthusiast | AI-Driven Systems Builder
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia"/>
-</p>
 
----
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=algolia"/>
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-</p>
-
----
 
 ### ⚡ Fun Fact
 
